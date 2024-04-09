@@ -29,8 +29,7 @@ export function App(props) {
 
   return (
     <div className="App">
-      <h1>Hello React.</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>Hello find your nummber</h1>
       <button onClick={showPrimeNumber}>Ramdom number </button>
       <p>Number: {primeNumber}</p>
     </div>
